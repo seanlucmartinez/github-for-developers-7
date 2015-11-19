@@ -3,3 +3,4 @@
 **Favorite Food:** Cheesecake
 **Hobby:**  Basketball
 **Favorite Color:** Black
+**Current City:** Salem
